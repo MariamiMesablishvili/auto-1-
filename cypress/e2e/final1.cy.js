@@ -62,12 +62,6 @@ cy.get('.avtorization > .input-shablon > .form-button').click()
 cy.get(':nth-child(5) > .swiper-container > .swiper-wrapper > .swiper-slide-active > h2 > a').click()
 cy.get('.add-pro').click()
 cy.get('.add-pro > span > :nth-child(2)').contains("დამატებულია")
-
-
-
-
-
-
     
 
     })
